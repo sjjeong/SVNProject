@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UsefulLife</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="MainActivity_mainLable">Useful Life</string>
+    <string name="MainActivity_entertainment">Entertainment</string>
+    <string name="MainActivity_entertainment_Lotto">LOTTO</string>
+    <string name="MainActivity_Life">LifeStyle</string>
+    <string name="MainActivity_Life_DutchPay">DutchPay</string>
+    <string name="DutchPay_Add">Add</string>
+    <string name="DutchPay_Jump">Jump</string>
+    <string name="DutchPay_Next">Next</string>
+    <string name="DutchPay_Delete">Delete</string>
+    <string name="DutchPay_Menu">Menu</string>
+    <string name="DutchPay_Price">Price</string>
+    <string name="DutchPay_Amount">Amount</string>
+    <string name="DutchPay_AllPrice">All Price</string>
+    <string name="DutchPay_TotalNumber">Total Number</string>
+    <string name="DutchPay_Calculation">Calculation</string>
+    <string name="DutchPay_AmountPaid">Amount Paid</string>
+
+</resources>

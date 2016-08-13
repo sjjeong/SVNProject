@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unicodi</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="auto_login">자동로그인</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="mycloset_tab1">상의</string>
+    <string name="mycloset_tab2">하의</string>
+    <string name="mycloset_tab3">겉옷</string>
+    <string name="mycloset_tab4">e.t.c</string>
+
+</resources>
